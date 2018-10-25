@@ -1,0 +1,6 @@
+C:\Users\Ильяс Сабитов\source\repos\Overload\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\Ильяс Сабитов\source\repos\Overload\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\Ильяс Сабитов\source\repos\Overload\MyClassLib\obj\Debug\MyClassLib.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\repos\Overload\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\repos\Overload\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\Ильяс Сабитов\source\repos\Overload\MyClassLib\obj\Debug\MyClassLib.pdb
